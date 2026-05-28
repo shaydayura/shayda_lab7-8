@@ -6,7 +6,7 @@ body {
   margin: 0;
   font-family: "Segoe UI", Arial, sans-serif;
   background: #eef4fb;
-  color: #142033;
+  color: #143323;
 }
 
 a {
@@ -32,9 +32,9 @@ textarea {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background: rgba(8, 41, 75, 0.96);
+  background: rgba(8, 75, 62, 0.96);
   color: white;
-  box-shadow: 0 8px 30px rgba(8, 41, 75, 0.2);
+  box-shadow: 0 8px 30px rgba(8, 75, 45, 0.2);
 }
 
 .logo {
@@ -70,7 +70,7 @@ textarea {
   padding: 34px;
   border-radius: 28px;
   color: white;
-  background: linear-gradient(135deg, #08345e, #0b66b2);
+  background: linear-gradient(135deg, #085e4b, #0bb2a4);
   box-shadow: 0 18px 40px rgba(8, 52, 94, 0.25);
 }
 
@@ -115,13 +115,13 @@ h1 {
   display: inline-flex;
   padding: 13px 18px;
   color: white;
-  background: linear-gradient(135deg, #0b66b2, #0088e8);
+  background: linear-gradient(135deg, #0bb291, #00e893);
 }
 
 .primary-button:hover,
 .secondary-action:hover {
   transform: translateY(-2px);
-  box-shadow: 0 10px 24px rgba(0, 136, 232, 0.25);
+  box-shadow: 0 10px 24px rgba(0, 232, 166, 0.25);
 }
 
 .table-wrapper {
@@ -144,7 +144,7 @@ h1 {
 }
 
 .inventory-table th {
-  color: #08345e;
+  color: #085e55;
   background: #f4f9fe;
 }
 
@@ -168,7 +168,7 @@ h1 {
   border: none;
   border-radius: 10px;
   color: white;
-  background: #0b66b2;
+  background: #0bb28b;
   cursor: pointer;
 }
 
@@ -194,7 +194,7 @@ h1 {
 .photo-form label {
   display: grid;
   gap: 8px;
-  color: #08345e;
+  color: #085e3d;
   font-weight: 800;
 }
 
@@ -215,7 +215,7 @@ h1 {
 
 .inventory-form input:focus,
 .inventory-form textarea:focus {
-  border-color: #0b66b2;
+  border-color: #0bb26c;
 }
 
 .photo-form {
@@ -227,7 +227,7 @@ h1 {
 .secondary-action {
   padding: 13px 18px;
   color: white;
-  background: #0b66b2;
+  background: #0bb296;
 }
 
 .details-card {
@@ -245,11 +245,11 @@ h1 {
 }
 
 .details-card h1 {
-  color: #08345e;
+  color: #085e46;
 }
 
 .details-description {
-  color: #475970;
+  color: #47706a;
   font-size: 18px;
   line-height: 1.6;
 }
@@ -257,7 +257,7 @@ h1 {
 .back-link {
   display: inline-flex;
   margin-bottom: 20px;
-  color: #0b66b2;
+  color: #0bb285;
   font-weight: 900;
 }
 
@@ -277,7 +277,7 @@ h1 {
 }
 
 .info-state {
-  color: #0b66b2;
+  color: #0bb285;
   background: #e9f5ff;
 }
 
@@ -289,7 +289,7 @@ h1 {
   align-items: center;
   justify-content: center;
   padding: 20px;
-  background: rgba(4, 18, 31, 0.65);
+  background: rgba(4, 31, 24, 0.65);
 }
 
 .confirm-modal,
@@ -304,7 +304,7 @@ h1 {
 
 .confirm-modal h2 {
   margin-top: 0;
-  color: #08345e;
+  color: #085e3a;
 }
 
 .modal-actions {
@@ -321,7 +321,7 @@ h1 {
 
 .secondary-button {
   padding: 12px 16px;
-  color: #08345e;
+  color: #085e40;
   background: #e7f1fb;
 }
 
@@ -335,12 +335,12 @@ h1 {
   align-items: center;
   background: white;
   box-shadow: 0 10px 24px rgba(9, 42, 75, 0.1);
-  color: #08345e;
+  color: #085e40;
   font-weight: 800;
 }
 
 .favorites-bar a {
-  color: #0b66b2;
+  color: #0bb256;
 }
 
 .gallery-grid {
@@ -388,7 +388,7 @@ h1 {
 
 .gallery-card-body h2 {
   margin: 0 0 8px;
-  color: #08345e;
+  color: #085e32;
   font-size: 20px;
 }
 
@@ -440,12 +440,12 @@ h1 {
 
 .quick-view-content h2 {
   margin: 0 0 12px;
-  color: #08345e;
+  color: #085e28;
   font-size: 30px;
 }
 
 .quick-view-content p {
-  color: #475970;
+  color: #477068;
   line-height: 1.6;
 }
 
@@ -455,7 +455,7 @@ h1 {
   right: 16px;
   border: none;
   background: transparent;
-  color: #08345e;
+  color: #085e44;
   font-size: 32px;
   cursor: pointer;
 }
@@ -526,4 +526,43 @@ h1 {
     flex-direction: column;
     align-items: flex-start;
   }
+}
+
+.gallery-hero {
+  margin-bottom: 28px;
+  padding: 46px 28px;
+  border-radius: 30px;
+  text-align: center;
+
+  background: linear-gradient(135deg, #12372a, #0f766e, #14b8a6);
+  box-shadow: 0 18px 45px rgba(15, 118, 110, 0.28);
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.gallery-hero .subtitle {
+  margin: 0 0 12px;
+  color: #a7f3d0;
+  font-size: 15px;
+  font-weight: 900;
+  letter-spacing: 1.7px;
+  text-transform: uppercase;
+}
+
+.gallery-hero h1 {
+  margin: 0 0 16px;
+  color: #ffffff;
+  font-size: 46px;
+  line-height: 1.1;
+  font-weight: 900;
+}
+
+.gallery-hero p:last-child {
+  max-width: 720px;
+  margin: 0 auto;
+  color: #e0fdf4;
+  font-size: 18px;
+  line-height: 1.55;
 }

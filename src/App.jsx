@@ -21,7 +21,7 @@ function App() {
             <nav className="nav">
               <Link to="/">Галерея</Link>
               <Link to="/favorites">Улюблені</Link>
-              <Link to="/admin">Адмін-панель</Link>
+        
             </nav>
           </header>
 
