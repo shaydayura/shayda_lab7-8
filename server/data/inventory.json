@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1779964651153,
+    "inventory_name": "Ноутбук Hp",
+    "description": "ноутбук",
+    "photo": "1779964651146-39_1500.jpg",
+    "createdAt": "2026-05-28T10:37:31.153Z"
+  },
+  {
+    "id": 1779964837832,
+    "inventory_name": "Телефон Google pixel",
+    "description": "телефон",
+    "photo": "1779964837828-9pix-3-1397x1397.jpg.webp",
+    "createdAt": "2026-05-28T10:40:37.832Z"
+  },
+  {
+    "id": 1779964888225,
+    "inventory_name": "Смартфон Vivo",
+    "description": "смтарфон віво",
+    "photo": "1779964908926-VIVO-X300-Pro-16512GB-74-Dune-Brown-01-600x600.webp",
+    "createdAt": "2026-05-28T10:41:28.225Z",
+    "updatedAt": "2026-05-28T10:41:48.932Z"
+  },
+  {
+    "id": 1779964944388,
+    "inventory_name": "Вода Моршинська",
+    "description": "вода",
+    "photo": "1779964944382-card_hod.jpg",
+    "createdAt": "2026-05-28T10:42:24.388Z"
+  },
+  {
+    "id": 1779964976396,
+    "inventory_name": "Корова",
+    "description": "молоко",
+    "photo": "1779964976387-Cow_female_black_white.jpg",
+    "createdAt": "2026-05-28T10:42:56.396Z"
+  },
+  {
+    "id": 1779965032121,
+    "inventory_name": "Ягуб",
+    "description": "алієв",
+    "photo": "1779965031981-photo_2026-02-01_18-02-44.jpg",
+    "createdAt": "2026-05-28T10:43:52.121Z"
+  },
+  {
+    "id": 1779965080883,
+    "inventory_name": "Каструля",
+    "description": "глек",
+    "photo": "1779965080876-64954_3.webp",
+    "createdAt": "2026-05-28T10:44:40.883Z"
+  },
+  {
+    "id": 1779965140081,
+    "inventory_name": "Цукерки Рошен \"Еклер\"",
+    "description": "72%",
+    "photo": "1779965139952-1328328905_mylo-hozyajstvennoe-72.webp",
+    "createdAt": "2026-05-28T10:45:40.081Z"
+  },
+  {
+    "id": 1779965172621,
+    "inventory_name": "Голова",
+    "description": "лиса",
+    "photo": "1779965172616-zbk4gks4.jpg",
+    "createdAt": "2026-05-28T10:46:12.621Z"
+  },
+  {
+    "id": 1779965233737,
+    "inventory_name": "Ноутбук",
+    "description": "ноутбук",
+    "photo": "1779965233732-1461938344-lte.avif",
+    "createdAt": "2026-05-28T10:47:13.737Z"
+  }
+]
